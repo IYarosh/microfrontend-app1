@@ -16,6 +16,6 @@ ReactDOM.render(
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
 
-export default function () {
+exports.testMessage = function () {
   console.log('Log from application 1');
 }
