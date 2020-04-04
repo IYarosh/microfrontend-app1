@@ -1,0 +1,1 @@
+console.log('Test function from microfrontend app1');
